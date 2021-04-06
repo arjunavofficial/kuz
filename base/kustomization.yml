@@ -1,0 +1,5 @@
+---
+resources:
+- argoCDnGinx.yml
+- nginx-service.yaml
+- nginx.yaml
